@@ -42,7 +42,7 @@
             "name": "SAMPVOICE",
             "description": "Only sampvoice version 4.0^",
             "env_variable": "SAMPVOICE",
-            "default_value": "false",
+            "default_value": "0",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|boolean",
